@@ -7,8 +7,8 @@ This is not a rigorous test of all application performance characteristics, and 
 
 Scenarios Included
 ----------------------
-* [Red Hat JBoss EAP](https://developers.redhat.com/products/eap/overview/) 7.2 using a basic [Java EE 8](https://www.oracle.com/technetwork/java/javaee/overview/index.html) REST application
-* [Red Hat JBoss EAP](https://developers.redhat.com/products/eap/overview/) 7.2 using a basic [Spring](https://spring.io/) REST application
+* [Red Hat JBoss EAP](https://developers.redhat.com/products/eap/overview/) 7.3 BETA using a basic [Java EE 8](https://www.oracle.com/technetwork/java/javaee/overview/index.html) REST application
+* [Red Hat JBoss EAP](https://developers.redhat.com/products/eap/overview/) 7.3 BETA using a basic [Spring](https://spring.io/) REST application
 * [Red Hat JBoss Web Server](https://developers.redhat.com/products/webserver/overview/) 5.0 (based on [Apache Tomcat](https://tomcat.apache.org/index.html) 9.x) using a basic Spring REST application
 * [Spring Boot](https://spring.io/projects/spring-boot) 2.x REST application deployed as a Fat JAR
 * [Eclipse Vert.x](https://vertx.io/) 3.6 REST application deployed as a Fat JAR

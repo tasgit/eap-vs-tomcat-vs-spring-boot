@@ -19,6 +19,7 @@
 
     <modules>
         <module>greeting-javaee</module>
+        <module>greeting-quarkus</module>        
         <module>greeting-spring</module>
         <module>greeting-spring-boot</module>
     </modules>
